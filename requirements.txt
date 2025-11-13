@@ -1,0 +1,5 @@
+pytest
+Appium-Python-Client
+allure-pytest
+pytest-html
+pandas
